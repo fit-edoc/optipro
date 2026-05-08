@@ -91,3 +91,9 @@
 - Create typed pricing schemas and audit engine models
 - Implement the first set of recommendation rules
 - Begin writing automated tests for the audit logic
+
+
+
+## Day 2 — 2026-05-08
+
+- took a day off because of tommorow is my semester exam  i will continue from day 3 night 
